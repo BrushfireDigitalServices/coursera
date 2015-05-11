@@ -3,6 +3,10 @@
 [![Build Status](https://travis-ci.org/coursera-dl/coursera.png?branch=master)](https://travis-ci.org/coursera-dl/coursera)
 [![Coverage Status](https://coveralls.io/repos/coursera-dl/coursera/badge.png)](https://coveralls.io/r/coursera-dl/coursera)
 
+## Forked by Henry Dwyer, Brushfire Digital Services LLC
+For the purpose of testing and documenting install and usage process of the project 
+on end-of-lifed Linux distributions. Currently testing on Ubuntu Lucid.
+
 [Coursera][1] is arguably the leader in *massive open online courses* (MOOC)
 with a selection of more than 300 classes from 62 different institutions [as of
 February 2013][13]. Generous contributions by educators and institutions are
